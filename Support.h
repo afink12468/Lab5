@@ -1,6 +1,5 @@
 #ifndef __SUPPORT_H__
 #define __SUPPORT_H__
-
 #include <string>
 using std::string;
 
